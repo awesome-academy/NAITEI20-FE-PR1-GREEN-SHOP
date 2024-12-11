@@ -31,7 +31,13 @@
       "price": 320000,
       "oldPrice": 320000,
       "rating": 5,
-      "image": "../../assets/images/spx2-15.png",
+      "images": [
+        "/images/spx2-5.png",
+        "/images/spx2-7.png",
+        "/images/spx2-9.png",
+        "/images/spx2-12.png",
+        "/images/spx2-14.png"
+      ],
       "category": "Cây để bàn",
       "color": "Xanh cây",
       "description": "Cây Dạ Lam là loại cây mang đến vẻ đẹp tự nhiên, thường được sử dụng để trang trí bàn làm việc hoặc không gian sống. Cây dễ chăm sóc và phù hợp với nhiều loại ánh sáng.",
@@ -47,8 +53,15 @@
       "name": "Cây Danh Dự",
       "price": 250000,
       "oldPrice": 250000,
+      "discount": 15,
       "rating": 5,
-      "image": "../../assets/images/spx2-2.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-6.png",
+        "/images/spx2-8.png",
+        "/images/spx2-10.png",
+        "/images/spx2-13.png"
+      ],
       "category": "Cây chậu treo",
       "color": "Đỏ cam",
       "description": "Cây Danh Dự có hình dáng thanh thoát, lá mọc thẳng và tạo cảm giác sang trọng. Phù hợp làm quà tặng hoặc dùng trong các không gian như phòng khách, phòng làm việc.",
@@ -64,8 +77,15 @@
       "name": "Cây chân chim",
       "price": 250000,
       "oldPrice": 250000,
+      "discount": 30,
       "rating": 5,
-      "image": "../../assets/images/spx2-2.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây có hoa",
       "color": "Tím",
       "description": "Cây chân chim mang lại sự tươi mới cho không gian sống, với những chiếc lá xòe rộng như chân chim. Cây dễ trồng và rất thích hợp để trang trí phòng khách hoặc ban công.",
@@ -82,7 +102,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-2.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây dây leo",
       "color": "Xanh trời",
       "description": "Cây cỏ ta với lá xanh mướt, thường được sử dụng để trang trí các không gian nhỏ hoặc dùng làm cây treo. Cây phát triển nhanh và dễ chăm sóc.",
@@ -99,7 +125,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-2.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây để bàn",
       "color": "Vàng",
       "description": "Cây dừa nhỏ với thân cây chắc khỏe, rất phù hợp để trang trí trên bàn làm việc. Cây có thể sống trong môi trường ánh sáng yếu và dễ chăm sóc.",
@@ -116,7 +148,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-2.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây có hoa",
       "color": "Hồng",
       "description": "Cây dạ búp đỏ với những búp hoa đỏ rực rỡ, là lựa chọn lý tưởng để trang trí nhà cửa hoặc văn phòng. Cây tạo điểm nhấn nổi bật cho không gian sống.",
@@ -133,7 +171,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-9.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây để bàn",
       "color": "Xanh cây",
       "description": "Cây Dạ Lam 2 là phiên bản cải tiến với lá dày dặn hơn, mang lại vẻ đẹp tự nhiên và dễ chăm sóc hơn. Phù hợp để trang trí bàn làm việc hoặc không gian sống.",
@@ -150,7 +194,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-8.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây chậu treo",
       "color": "Đỏ cam",
       "description": "Cây Danh Dự 2 có hình dáng thanh thoát hơn với lá dày dặn, tạo cảm giác sang trọng và hiện đại. Phù hợp làm quà tặng hoặc dùng trong các không gian như phòng khách, phòng làm việc.",
@@ -167,7 +217,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-7.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây có hoa",
       "color": "Tím",
       "description": "Cây chân chim 2 mang lại sự tươi mới và thẩm mỹ cao cho không gian sống, với những chiếc lá xòe rộng như chân chim. Cây dễ trồng và rất thích hợp để trang trí phòng khách hoặc ban công.",
@@ -184,7 +240,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-6.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây dây leo",
       "color": "Xanh trời",
       "description": "Cây cỏ ta 2 với lá xanh mướt và khả năng phát triển nhanh, thích hợp để trang trí các không gian nhỏ hoặc dùng làm cây treo. Cây dễ chăm sóc và duy trì hình dáng đẹp.",
@@ -201,7 +263,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-5.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây để bàn",
       "color": "Xanh cây",
       "description": "Cây Dạ Lam 3 là phiên bản cuối cùng trong bộ sưu tập, mang đến sự phong phú với các lá màu xanh đậm và dáng cây hoàn hảo. Phù hợp để trang trí bàn làm việc hoặc không gian sống.",
@@ -218,7 +286,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-4.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây để bàn",
       "color": "Vàng",
       "description": "Cây dừa nhỏ 2 với thân cây chắc khỏe và lá dạng lông chim, tạo nên vẻ đẹp thanh lịch và dễ chịu cho không gian nội thất. Cây có thể sống trong môi trường ánh sáng yếu và dễ chăm sóc.",
@@ -235,7 +309,13 @@
       "price": 280000,
       "oldPrice": 280000,
       "rating": 4,
-      "image": "../../assets/images/spx2-16.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Xanh lá",
       "description": "Cây Kim Ngân mang lại không gian xanh mát và dễ chịu, thích hợp để trang trí phòng ngủ hoặc phòng khách. Cây chịu bóng tốt và không đòi hỏi nhiều chăm sóc.",
@@ -252,7 +332,13 @@
       "price": 200000,
       "oldPrice": 250000,
       "rating": 4,
-      "image": "../../assets/images/spx2-17.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Đỏ",
       "description": "Cây Sen đá là loại cây cảnh độc đáo với hình dáng giống hoa sen. Cây thích hợp để trang trí bàn làm việc hoặc kệ sách, dễ chăm sóc và không đòi hỏi nhiều nước.",
@@ -269,7 +355,13 @@
       "price": 350000,
       "oldPrice": 350000,
       "rating": 5,
-      "image": "../../assets/images/spx2-18.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây nội thất",
       "color": "Xanh lá",
       "description": "Cây Lưỡi Hổ với lá dài và vằn đẹp, mang lại vẻ đẹp hiện đại và sang trọng cho không gian sống. Cây dễ chăm sóc và phù hợp với nhiều loại ánh sáng.",
@@ -286,7 +378,13 @@
       "price": 180000,
       "oldPrice": 350000,
       "rating": 4,
-      "image": "../../assets/images/spx2-19.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Xanh lá",
       "description": "Cây Xương Rồng là loại cây chịu hạn, thích hợp để trang trí văn phòng hoặc nhà kính. Cây không đòi hỏi nhiều nước và dễ chăm sóc.",
@@ -303,7 +401,13 @@
       "price": 150000,
       "oldPrice": 250000,
       "rating": 4,
-      "image": "../../assets/images/spx2-20.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Xanh lá",
       "description": "Cây Thảo Mộc không chỉ mang lại vẻ xanh mát mà còn có thể sử dụng trong nấu ăn hoặc làm thuốc. Cây dễ chăm sóc và thích hợp với nhiều loại đất.",
@@ -320,7 +424,13 @@
       "price": 300000,
       "oldPrice": 350000,
       "rating": 5,
-      "image": "../../assets/images/spx2-21.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây có hoa",
       "color": "Tím",
       "description": "Cây Lan Ý với những bông hoa xinh đẹp, thích hợp để trang trí nhà cửa hoặc làm quà tặng. Cây cần ánh sáng gián tiếp và đất giữ ẩm tốt.",
@@ -337,7 +447,13 @@
       "price": 220000,
       "oldPrice": 250000,
       "rating": 4,
-      "image": "../../assets/images/spx2-22.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây may mắn",
       "color": "Xanh lá",
       "description": "Cây Lộc Vừng là loại cây phong thủy mang lại may mắn và thịnh vượng. Cây dễ chăm sóc và thích hợp để trang trí bàn làm việc hoặc nhà cửa.",
@@ -354,7 +470,13 @@
       "price": 160000,
       "oldPrice": 250000,
       "rating": 4,
-      "image": "../../assets/images/spx2-23.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Xanh lá",
       "description": "Cây Trầu Bà với lá xanh bóng, tạo cảm giác thư giãn và dễ chịu cho không gian sống. Cây dễ chăm sóc và thích hợp với nhiều loại ánh sáng.",
@@ -371,7 +493,13 @@
       "price": 270000,
       "oldPrice": 350000,
       "rating": 5,
-      "image": "../../assets/images/spx2-24.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Xanh lá",
       "description": "Cây Chuối Non không chỉ đẹp mà còn mang lại trái ngon, thích hợp để trồng trong nhà hoặc sân vườn nhỏ. Cây cần ánh sáng đầy đủ và đất giàu dinh dưỡng.",
@@ -388,7 +516,13 @@
       "price": 250000,
       "oldPrice": 250000,
       "rating": 5,
-      "image": "../../assets/images/spx2-25.png",
+      "images": [
+        "/images/spx2-4.png",
+        "/images/spx2-5.png",
+        "/images/spx2-6.png",
+        "/images/spx2-7.png",
+        "/images/spx2-8.png"
+      ],
       "category": "Cây trang trí",
       "color": "Xanh đậm",
       "description": "Cây Cọ Đài Loan là loại cây lớn mang lại vẻ đẹp sang trọng và xanh mát cho không gian sống. Cây phù hợp với các khu vực rộng rãi và cần chăm sóc kỹ lưỡng.",
