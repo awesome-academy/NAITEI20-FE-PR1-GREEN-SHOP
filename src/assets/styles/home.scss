@@ -1,0 +1,34 @@
+.card-large {
+  width: 100%;
+  .card-image {
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .card-content{
+    padding-bottom: 1rem;
+  }
+}
+
+.most-purchased-card {
+  padding: 5px 10px;
+  margin-bottom: 0.475rem;
+  display: flex;
+  gap: 0.875rem;
+  justify-items: center;
+  align-items: center;
+
+  .card-image {
+    width: 100px;
+    height: auto;
+  }
+
+  .card-content {
+    h3, span, div {
+      font-size: 0.725rem;
+      margin-top: 0;
+    }
+  }
+}
